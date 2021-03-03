@@ -3,4 +3,4 @@ _HM 1 for the course DD2423 Machine Learning, Advance fall term 2020 at KTH Roya
 
 **Author:** Eric Bojs
 
-View py-Notebook in repository of code.
+View py-Notebook in repository for code.
